@@ -1,0 +1,76 @@
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\donet project.exe
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\donet project.deps.json
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\donet project.runtimeconfig.json
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\donet project.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\donet project.pdb
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.csproj.AssemblyReference.cache
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.AssemblyInfoInputs.cache
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.AssemblyInfo.cs
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.csproj.CoreCompileInputs.cache
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.dll
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\refint\donet project.dll
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.pdb
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.genruntimeconfig.cache
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\ref\donet project.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MH\Desktop\donet project\obj\Debug\net6.0\donet project.csproj.CopyComplete
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\MH\Desktop\donet project\bin\Debug\net6.0\MySqlConnector.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\donet project.exe
+D:\دسکتاپ\donet project\bin\Debug\net6.0\donet project.deps.json
+D:\دسکتاپ\donet project\bin\Debug\net6.0\donet project.runtimeconfig.json
+D:\دسکتاپ\donet project\bin\Debug\net6.0\donet project.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\donet project.pdb
+D:\دسکتاپ\donet project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\MySqlConnector.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\دسکتاپ\donet project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.csproj.AssemblyReference.cache
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.GeneratedMSBuildEditorConfig.editorconfig
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.AssemblyInfoInputs.cache
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.AssemblyInfo.cs
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.csproj.CoreCompileInputs.cache
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.csproj.CopyComplete
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.dll
+D:\دسکتاپ\donet project\obj\Debug\net6.0\refint\donet project.dll
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.pdb
+D:\دسکتاپ\donet project\obj\Debug\net6.0\donet project.genruntimeconfig.cache
+D:\دسکتاپ\donet project\obj\Debug\net6.0\ref\donet project.dll
